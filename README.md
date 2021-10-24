@@ -3,6 +3,8 @@
 
 | 日期 | 标题 | 封面 | 时长 | 视频（4K） |
 | -- | -- | -- | -- | -- |
+| 录制中 | [图神经网络](https://distill.pub/2021/gnn-intro/) 的可视化介绍 ||||
+| 录制中 | [Transformer](https://arxiv.org/abs/1706.03762)：新的大一统架构？ ||||
 | 10/22/21 | [ResNet](https://arxiv.org/abs/1512.03385) 论文逐段精读 | <img src="imgs/resnet-2.jpg" width="250px"/> | 53:46 | [B站](https://www.bilibili.com/video/BV1P3411y7nn/), [知乎](https://www.zhihu.com/zvideo/1434795406001180672), [YouTube](https://www.youtube.com/watch?v=pWMnzCX4cwQ) |
 | 10/21/21 | 撑起计算机视觉半边天的 [ResNet](https://arxiv.org/abs/1512.03385) | <img src="imgs/resnet-1.jpg" width="250px"/> | 11:50 | [B站](https://www.bilibili.com/video/BV1Fb4y1h73E/), [知乎](https://www.zhihu.com/zvideo/1434787226101751808), [YouTube](https://www.youtube.com/watch?v=NnSldWhSqvY) |
 | 10/15/21 | [AlexNet](https://papers.nips.cc/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf) 论文逐段精读 | <img src="imgs/alexnet-2.jpg" width="250px"/> | 55:21 | [B站](https://www.bilibili.com/video/BV1hq4y157t1/), [知乎](https://www.zhihu.com/zvideo/1432354207483871232), [YouTube](https://www.youtube.com/watch?v=zjnxu8KUYKA) |
@@ -19,7 +21,6 @@
 下面列表将会持续更新（数字不代表讲的顺序）。
 
 1. [Adam](https://arxiv.org/abs/1412.6980)。深度学习里最常用的优化算法之一。
-2. [Transformer](https://arxiv.org/abs/1706.03762)。开创了MLP、CNN、RNN之后的第四大类神经网络架构，目前的研究热点方向。
 3. [EfficientNet](https://arxiv.org/abs/1905.11946)。通过架构搜索得到的CNN，现在常被使用。
 4. [BERT](https://arxiv.org/abs/1810.04805)。让深度学习在NLP上热度超过了CV。
 5. [GPT3](https://arxiv.org/abs/2005.14165)。朝着zero-shot learning迈了一大步。当然也得讲一讲GPT/GPT-2
