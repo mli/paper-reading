@@ -12,8 +12,7 @@
 | 10/06/21 | 如何读论文 | <img src="imgs/read-paper.jpg" width="250px"/> | 06:39 | [B站](https://www.bilibili.com/video/BV1H44y1t75x/), [知乎](https://www.zhihu.com/zvideo/1428973951632969728), [YouTube](https://www.youtube.com/watch?v=txjl_Q4jCyQ&list=PLFXJ6jwg0qW-7UM8iUTj3qKqdhbQULP5I&index=1) |
 
 
-[^transformer]: 视频中提到的几篇文章：
-1. [斯坦福100+作者的200+页综述](https://arxiv.org/abs/2108.07258) 
+[^transformer]: 视频中提到的几篇文章：1) [斯坦福100+作者的200+页综述](https://arxiv.org/abs/2108.07258)，2) [对LayerNorm的新研究](https://arxiv.org/pdf/1911.07013.pdf)，3) [对Attention在Transformer里面作用的研究](https://arxiv.org/abs/2103.03404)
 
 ## 候选论文
 
