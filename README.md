@@ -34,4 +34,10 @@
 9. [为什么超大的模型泛化性不错](https://cacm.acm.org/magazines/2021/3/250713-understanding-deep-learning-still-requires-rethinking-generalization/fulltext)
 10. [GNN介绍](https://distill.pub/2021/gnn-intro/)。Distill上最近一篇写得很好的介绍性文章。
 11. [AlphaGo](https://deepmind.com/research/case-studies/alphago-the-story-so-far)。让强化学习出圈的一系列工作。
-
+1. Swin Transformer
+1. Out-of-distribution
+1. AlphaFold
+1. Contrastive learning
+1. Video recognition
+1. Anchor-free object detection
+1. Knowledge graph
