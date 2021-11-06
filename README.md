@@ -23,6 +23,7 @@
 <img src="imgs/papers.png" width="600px" />
 
 图示：
+
 <img src="imgs/legend.png" width="550px" />  
 
 ## 候选论文
