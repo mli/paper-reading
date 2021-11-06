@@ -24,7 +24,7 @@
 
 图示：
 
-<img src="imgs/legend.png" width="550px" />  
+<img src="imgs/legend.png" width="500px" />  
 
 ## 候选论文
 
