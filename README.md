@@ -18,11 +18,12 @@
 
 [^transformer]: 1 [斯坦福100+作者的200+页综述](https://arxiv.org/abs/2108.07258)，2 [对LayerNorm的新研究](https://arxiv.org/pdf/1911.07013.pdf)，3 [对Attention在Transformer里面作用的研究](https://arxiv.org/abs/2103.03404)
 
-论文之间的关系
+论文之间的关系：
 
-<img src="imgs/papers.png" width="800px" />
+<img src="imgs/papers.png" width="600px" />
 
-<img src="imgs/legend.png" width="400px" />  
+图示：
+<img src="imgs/legend.png" width="550px" />  
 
 ## 候选论文
 
