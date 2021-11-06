@@ -3,7 +3,9 @@
 
 | 日期 | 标题 | 封面 | 时长 | 视频（4K） |
 | -- | -- | -- | -- | -- |
-| 录制中 | [BERT](https://arxiv.org/abs/1810.04805) |
+| 排队中 | [MoCo](https://arxiv.org/abs/1911.05722) |
+| 录制中 | [ViT](https://arxiv.org/abs/2010.11929) |  
+| 排队中 | [BERT](https://arxiv.org/abs/1810.04805) |
 | 录制中 | [GAN](https://arxiv.org/abs/1406.2661) | 
 | 11/3/21 | 零基础多图详解 [图神经网络](https://distill.pub/2021/gnn-intro/)（GNN/GCN） | <img src="imgs/gnn.jpg" width="250px"/> | 66:19 | [B站](https://www.bilibili.com/video/BV1iT4y1d7zP/), [知乎](https://www.zhihu.com/zvideo/1439540657619087360), [YouTube](https://youtu.be/sejA2PtCITw) |
 | 10/27/21 | [Transformer](https://arxiv.org/abs/1706.03762) 逐段精读<br> （视频中提到的文献 [^transformer]) |<img src="imgs/transformer.jpg" width="250px"/> | 87:05 |[B站](https://www.bilibili.com/video/BV1pu411o7BE/), [知乎](https://www.zhihu.com/zvideo/1437034536677404672), [YouTube](https://youtu.be/nzqlFIcCSWQ)|
@@ -15,6 +17,12 @@
 
 
 [^transformer]: 1 [斯坦福100+作者的200+页综述](https://arxiv.org/abs/2108.07258)，2 [对LayerNorm的新研究](https://arxiv.org/pdf/1911.07013.pdf)，3 [对Attention在Transformer里面作用的研究](https://arxiv.org/abs/2103.03404)
+
+论文之间的关系
+
+<img src="imgs/papers.png" width="800px" />
+
+<img src="imgs/legend.png" width="400px" />  
 
 ## 候选论文
 
@@ -38,6 +46,4 @@
 1. Video recognition
 1. Anchor-free object detection
 1. Knowledge graph
-1. [MoCo](https://arxiv.org/abs/1911.05722), 对比学习让自监督训练的backbone比有监督训练的更香
-1. [ViT](https://arxiv.org/abs/2010.11929), 开启CV界的transformer时代。
 1. [Two-stream networks](https://arxiv.org/abs/1406.2199)，首次超越手工特征IDT的视频分类架构
