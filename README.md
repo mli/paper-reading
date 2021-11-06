@@ -38,3 +38,6 @@
 1. Video recognition
 1. Anchor-free object detection
 1. Knowledge graph
+1. [MoCo](https://arxiv.org/abs/1911.05722), 对比学习让自监督训练的backbone比有监督训练的更香
+1. [ViT](https://arxiv.org/abs/2010.11929), 开启CV界的transformer时代。
+1. [Two-stream networks](https://arxiv.org/abs/1406.2199)，首次超越手工特征IDT的视频分类架构
