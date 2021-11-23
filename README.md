@@ -15,16 +15,8 @@
 | 10/14/21 | 9年后重读深度学习奠基作之一：[AlexNet](https://papers.nips.cc/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf) | <img src="imgs/alexnet-1.jpg" width="200px"/> | 19:59 | [B站](https://www.bilibili.com/video/BV1ih411J7Kz/), [知乎](https://www.zhihu.com/zvideo/1432155856322920448), [YouTube](https://www.youtube.com/watch?v=vdYH0fE6thY) |
 | 10/06/21 | 如何读论文 | <img src="imgs/read-paper.jpg" width="200px"/> | 06:39 | [B站](https://www.bilibili.com/video/BV1H44y1t75x/), [知乎](https://www.zhihu.com/zvideo/1428973951632969728), [YouTube](https://www.youtube.com/watch?v=txjl_Q4jCyQ&list=PLFXJ6jwg0qW-7UM8iUTj3qKqdhbQULP5I&index=1) |
 
-
 [^transformer]: 1 [斯坦福100+作者的200+页综述](https://arxiv.org/abs/2108.07258)，2 [对LayerNorm的新研究](https://arxiv.org/pdf/1911.07013.pdf)，3 [对Attention在Transformer里面作用的研究](https://arxiv.org/abs/2103.03404)
 
-论文之间的关系：
-
-<img src="imgs/papers.png" width="600px" />
-
-图示：
-
-<img src="imgs/legend.png" width="500px" />  
 
 ## 所有论文
 
@@ -32,27 +24,27 @@
 
 ### 计算机视觉
 
-1. ✅ [2012] [AlexNet](https://papers.nips.cc/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf)。深度学习热潮的奠基作。 
-1. ✅ [2014] [GAN](https://papers.nips.cc/paper/2014/file/5ca3e9b122f61f8f06494c97b1afccf3-Paper.pdf)。生成模型的开创工作。
-1. ✅ [2015] [ResNet](https://arxiv.org/abs/1512.03385)。构建深层网络都要有的残差连接。
-1. [2019] [EfficientNet](https://arxiv.org/abs/1905.11946)。通过架构搜索得到的CNN。
-1. [2019] [MoCo](https://arxiv.org/abs/1911.05722)：无监督训练效果也很好。
-1. [2020] [ViT](https://arxiv.org/abs/2010.11929)：Transformer杀入CV界。
-1. [2021] [CLIP](https://openai.com/blog/clip/)。图片和文本之间的对比学习。
-1. [2021] [Non-deep networks](https://arxiv.org/pdf/2110.07641.pdf)。让不深的网络也能在ImageNet刷到SOTA。
-1. [2021] [Swin Transformer](https://arxiv.org/abs/2103.14030)。多层次的Vision Transformer。
+1. ✅ [2012] [AlexNet](https://papers.nips.cc/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf)。深度学习热潮的奠基作。 [[SS](https://www.semanticscholar.org/paper/ImageNet-classification-with-deep-convolutional-Krizhevsky-Sutskever/abd1c342495432171beb7ca8fd9551ef13cbd0ff) 引用：>=10K]
+1. ✅ [2014] [GAN](https://papers.nips.cc/paper/2014/file/5ca3e9b122f61f8f06494c97b1afccf3-Paper.pdf)。生成模型的开创工作。 [[SS](https://www.semanticscholar.org/paper/Generative-Adversarial-Nets-Goodfellow-Pouget-Abadie/54e325aee6b2d476bbbb88615ac15e251c6e8214) 引用：9998]
+1. ✅ [2015] [ResNet](https://arxiv.org/abs/1512.03385)。构建深层网络都要有的残差连接。 [[SS](https://www.semanticscholar.org/paper/Deep-Residual-Learning-for-Image-Recognition-He-Zhang/2c03df8b48bf3fa39054345bafabfeff15bfd11d) 引用：>=10K]
+1. [2019] [EfficientNet](https://arxiv.org/abs/1905.11946)。通过架构搜索得到的CNN。 [[SS](https://www.semanticscholar.org/paper/EfficientNet%3A-Rethinking-Model-Scaling-for-Neural-Tan-Le/4f2eda8077dc7a69bb2b4e0a1a086cf054adb3f9) 引用：3423]
+1. [2019] [MoCo](https://arxiv.org/abs/1911.05722)：无监督训练效果也很好。 [[SS](https://www.semanticscholar.org/paper/Momentum-Contrast-for-Unsupervised-Visual-Learning-He-Fan/ec46830a4b275fd01d4de82bffcabe6da086128f) 引用：2008]
+1. [2020] [ViT](https://arxiv.org/abs/2010.11929)：Transformer杀入CV界。 [[SS](https://www.semanticscholar.org/paper/An-Image-is-Worth-16x16-Words%3A-Transformers-for-at-Dosovitskiy-Beyer/7b15fa1b8d413fbe14ef7a97f651f47f5aff3903) 引用：1525]
+1. [2021] [CLIP](https://openai.com/blog/clip/)。图片和文本之间的对比学习。 [[SS](https://www.semanticscholar.org/paper/Learning-Transferable-Visual-Models-From-Natural-Radford-Kim/6f870f7f02a8c59c3e23f407f3ef00dd1dcf8fc4) 引用：399]
+1. [2021] [Non-deep networks](https://arxiv.org/pdf/2110.07641.pdf)。让不深的网络也能在ImageNet刷到SOTA。 [[SS](https://www.semanticscholar.org/paper/Non-deep-Networks-Goyal-Bochkovskiy/0d7f6086772079bc3e243b7b375a9ca1a517ba8b) 引用：0]
+1. [2021] [Swin Transformer](https://arxiv.org/abs/2103.14030)。多层次的Vision Transformer。 [[SS](https://www.semanticscholar.org/paper/Swin-Transformer%3A-Hierarchical-Vision-Transformer-Liu-Lin/c8b25fab5608c3e033d34b4483ec47e68ba109b7) 引用：383]
 
 ### 自然语言处理
 
-1. ✅ [2017] [Transformer](https://arxiv.org/abs/1706.03762)。继MLP、CNN、RNN后的第四大类架构。
-1. ✅ [2018] [BERT](https://arxiv.org/abs/1810.04805)。Transformer一统NLP的开始。
-1. [2020] [GPT-3](https://arxiv.org/abs/2005.14165)。朝着zero-shot learning迈了一大步。当然也得讲到 [GPT](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf) 和 [GPT-2](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)
+1. ✅ [2017] [Transformer](https://arxiv.org/abs/1706.03762)。继MLP、CNN、RNN后的第四大类架构。 [[SS](https://www.semanticscholar.org/paper/Attention-is-All-you-Need-Vaswani-Shazeer/204e3073870fae3d05bcbc2f6a8e263d9b72e776) 引用：>=10K]
+1. ✅ [2018] [BERT](https://arxiv.org/abs/1810.04805)。Transformer一统NLP的开始。 [[SS](https://www.semanticscholar.org/paper/BERT%3A-Pre-training-of-Deep-Bidirectional-for-Devlin-Chang/df2b0e26d0599ce3e70df8a9da02e51594e0e992) 引用：>=10K]
+1. [2020] [GPT-3](https://arxiv.org/abs/2005.14165)。朝着zero-shot learning迈了一大步。当然也得讲到 [GPT](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf) 和 [GPT-2](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)。 [[SS](https://www.semanticscholar.org/paper/Language-Models-are-Few-Shot-Learners-Brown-Mann/6b85b63579a916f705a8e10a49bd8d849d91b1fc) 引用：2545]
 
 
 ### 通用技术
 
-1. [2014] [Adam](https://arxiv.org/abs/1412.6980)：深度学习里最常用的优化算法之一。
-1. [2016] [为什么超大的模型泛化性不错](https://arxiv.org/abs/1611.03530)
+1. [2014] [Adam](https://arxiv.org/abs/1412.6980)：深度学习里最常用的优化算法之一。 [[SS](https://www.semanticscholar.org/paper/Adam%3A-A-Method-for-Stochastic-Optimization-Kingma-Ba/a6cb366736791bcccc5c8639de5a8f9636bf87e8) 引用：>=10K]
+1. [2016] [为什么超大的模型泛化性不错](https://arxiv.org/abs/1611.03530)。 [[SS](https://www.semanticscholar.org/paper/Understanding-deep-learning-requires-rethinking-Zhang-Bengio/54ddb00fa691728944fd8becea90a373d21597cf) 引用：3109]
 
 ### 其他领域
 
@@ -61,5 +53,6 @@
 1. AlphaFold
 1. Anchor-free object detection
 1. Knowledge graph
-1. [2014] [Two-stream networks](https://arxiv.org/abs/1406.2199)，首次超越手工特征IDT的视频分类架构
-1. ✅ [2021] [图神经网络](https://distill.pub/2021/gnn-intro/)
+1. [2014] [Two-stream networks](https://arxiv.org/abs/1406.2199)：首次超越手工特征IDT的视频分类架构。 [[SS](https://www.semanticscholar.org/paper/Two-Stream-Convolutional-Networks-for-Action-in-Simonyan-Zisserman/67dccc9a856b60bdc4d058d83657a089b8ad4486) 引用：5093]
+1. ✅ [2021] [图神经网络](https://distill.pub/2021/gnn-intro/)。 [[SS](https://www.semanticscholar.org/paper/A-Gentle-Introduction-to-Graph-Neural-Networks-S%C3%A1nchez-Lengeling-Reif/2c0e0440882a42be752268d0b64243243d752a74) 引用：4]
+
