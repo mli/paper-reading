@@ -5,6 +5,7 @@
 
 | 日期 | 标题 | 封面 | 时长 | 视频（4K） |
 | -- | -- | -- | -- | -- |
+| 11/29/21 | [ViT](https://arxiv.org/pdf/2010.11929.pdf) 逐段精读 | <img src="imgs/vit.jpg" width="200px"/> | 71:30 | [B站](https://www.bilibili.com/video/BV15P4y137jb/) |
 | 11/18/21 | [BERT](https://arxiv.org/abs/1810.04805) 逐段精读 | <img src="imgs/bert.jpg" width="200px"/> | 45:49  | [B站](https://www.bilibili.com/video/BV1PL411M7eQ), [知乎](https://www.zhihu.com/zvideo/1445340200976785408), [YouTube](https://youtu.be/ULD3uIb2MHQ) |
 | 11/9/21 | [GAN](https://papers.nips.cc/paper/2014/file/5ca3e9b122f61f8f06494c97b1afccf3-Paper.pdf) 逐段精读 | <img src="imgs/gan.jpg" width="200px"/> | 46:16  | [B站](https://www.bilibili.com/video/BV1rb4y187vD/), [知乎](https://www.zhihu.com/zvideo/1442091389241159681), [YouTube](https://www.youtube.com/watch?v=g_0HtlrLiDo) |
 | 11/3/21 | 零基础多图详解 [图神经网络](https://distill.pub/2021/gnn-intro/)（GNN/GCN） | <img src="imgs/gnn.jpg" width="200px"/> | 66:19 | [B站](https://www.bilibili.com/video/BV1iT4y1d7zP/), [知乎](https://www.zhihu.com/zvideo/1439540657619087360), [YouTube](https://youtu.be/sejA2PtCITw) |
