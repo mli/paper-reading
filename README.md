@@ -5,6 +5,7 @@
 
 | 日期 | 标题 | 封面 | 时长 | 视频（4K） |
 | -- | -- | -- | -- | -- |
+| 12/8/21 | [MAE](https://arxiv.org/pdf/2111.06377.pdf) 论文逐段精读 | <img src="imgs/mae.jpg" width="200px"/> | 47:04 | [B站](https://www.bilibili.com/video/BV1sq4y1q77t), [知乎](https://www.zhihu.com/zvideo/1452458167968251904), [YouTube](https://youtu.be/mYlX2dpdHHM) |
 | 11/29/21 | [ViT](https://arxiv.org/pdf/2010.11929.pdf) 逐段精读 | <img src="imgs/vit.jpg" width="200px"/> | 71:30 | [B站](https://www.bilibili.com/video/BV15P4y137jb/), [知乎](https://www.zhihu.com/zvideo/1449195245754380288), [YouTube](https://youtu.be/FRFt3x0bO94) |
 | 11/18/21 | [BERT](https://arxiv.org/abs/1810.04805) 逐段精读 | <img src="imgs/bert.jpg" width="200px"/> | 45:49  | [B站](https://www.bilibili.com/video/BV1PL411M7eQ), [知乎](https://www.zhihu.com/zvideo/1445340200976785408), [YouTube](https://youtu.be/ULD3uIb2MHQ) |
 | 11/9/21 | [GAN](https://papers.nips.cc/paper/2014/file/5ca3e9b122f61f8f06494c97b1afccf3-Paper.pdf) 逐段精读 | <img src="imgs/gan.jpg" width="200px"/> | 46:16  | [B站](https://www.bilibili.com/video/BV1rb4y187vD/), [知乎](https://www.zhihu.com/zvideo/1442091389241159681), [YouTube](https://www.youtube.com/watch?v=g_0HtlrLiDo) |
@@ -47,7 +48,7 @@
 | | 2021 |  [CLIP](https://openai.com/blog/clip/) | 图片和文本之间的对比学习           | 399 ([link](https://www.semanticscholar.org/paper/Learning-Transferable-Visual-Models-From-Natural-Radford-Kim/6f870f7f02a8c59c3e23f407f3ef00dd1dcf8fc4)) |
 | | 2021 | [Swin Transformer](https://arxiv.org/pdf/2103.14030.pdf) | 多层次的Vision Transformer           | 384 ([link](https://www.semanticscholar.org/paper/Swin-Transformer%3A-Hierarchical-Vision-Transformer-Liu-Lin/c8b25fab5608c3e033d34b4483ec47e68ba109b7)) |
 | | 2021 | [MLP-Mixer](https://arxiv.org/pdf/2105.01601.pdf) | 使用MLP替换self-attention    | 137 ([link](https://www.semanticscholar.org/paper/MLP-Mixer%3A-An-all-MLP-Architecture-for-Vision-Tolstikhin-Houlsby/2def61f556f9a5576ace08911496b7c7e4f970a4)) |
-| | 2021 | [MAE](https://arxiv.org/pdf/2111.06377.pdf) | BERT的CV版     | 4 ([link](https://www.semanticscholar.org/paper/Masked-Autoencoders-Are-Scalable-Vision-Learners-He-Chen/c1962a8cf364595ed2838a097e9aa7cd159d3118)) |
+| ✅ | 2021 | [MAE](https://arxiv.org/pdf/2111.06377.pdf) | BERT的CV版     | 4 ([link](https://www.semanticscholar.org/paper/Masked-Autoencoders-Are-Scalable-Vision-Learners-He-Chen/c1962a8cf364595ed2838a097e9aa7cd159d3118)) |
 
 ### 计算机视觉 - GAN
 
