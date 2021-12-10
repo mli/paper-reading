@@ -6,7 +6,7 @@
 | 日期 | 标题 | 封面 | 时长 | 视频（4K） |
 | -- | -- | -- | -- | -- |
 | 12/9/21 | 如何找研究想法 1 | <img src="imgs/mae_idea.jpg" width="200px"/> | 5:34 | [B站](https://www.bilibili.com/video/BV1qq4y1z7F2/) |
-| 12/8/21 | [MAE](https://arxiv.org/pdf/2111.06377.pdf) 论文逐段精读 | <img src="imgs/mae.jpg" width="200px"/> | 47:04 | [B站](https://www.bilibili.com/video/BV1sq4y1q77t), [知乎](https://www.zhihu.com/zvideo/1452458167968251904), [YouTube](https://youtu.be/mYlX2dpdHHM) |
+| 12/8/21 | [MAE](https://arxiv.org/pdf/2111.06377.pdf) 逐段精读 | <img src="imgs/mae.jpg" width="200px"/> | 47:04 | [B站](https://www.bilibili.com/video/BV1sq4y1q77t), [知乎](https://www.zhihu.com/zvideo/1452458167968251904), [YouTube](https://youtu.be/mYlX2dpdHHM) |
 | 11/29/21 | [ViT](https://arxiv.org/pdf/2010.11929.pdf) 逐段精读 | <img src="imgs/vit.jpg" width="200px"/> | 71:30 | [B站](https://www.bilibili.com/video/BV15P4y137jb/), [知乎](https://www.zhihu.com/zvideo/1449195245754380288), [YouTube](https://youtu.be/FRFt3x0bO94) |
 | 11/18/21 | [BERT](https://arxiv.org/abs/1810.04805) 逐段精读 | <img src="imgs/bert.jpg" width="200px"/> | 45:49  | [B站](https://www.bilibili.com/video/BV1PL411M7eQ), [知乎](https://www.zhihu.com/zvideo/1445340200976785408), [YouTube](https://youtu.be/ULD3uIb2MHQ) |
 | 11/9/21 | [GAN](https://papers.nips.cc/paper/2014/file/5ca3e9b122f61f8f06494c97b1afccf3-Paper.pdf) 逐段精读 | <img src="imgs/gan.jpg" width="200px"/> | 46:16  | [B站](https://www.bilibili.com/video/BV1rb4y187vD/), [知乎](https://www.zhihu.com/zvideo/1442091389241159681), [YouTube](https://www.youtube.com/watch?v=g_0HtlrLiDo) |
