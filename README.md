@@ -5,6 +5,7 @@
 
 | 日期 | 标题 | 封面 | 时长 | 视频（4K） |
 | -- | -- | -- | -- | -- |
+| 12/15/21 | [MoCo](https://arxiv.org/pdf/1911.05722.pdf) 逐段精读 | <img src="imgs/mocov1.jpg" width="200px"/> | 84:11 |  [B站](https://www.bilibili.com/video/BV1C3411s7t9/), [知乎](https://www.zhihu.com/zvideo/1454723120678936576), YouTube |
 | 12/9/21 | 如何找研究想法 1 | <img src="imgs/mae_idea.jpg" width="200px"/> | 5:34 | [B站](https://www.bilibili.com/video/BV1qq4y1z7F2/) |
 | 12/8/21 | [MAE](https://arxiv.org/pdf/2111.06377.pdf) 逐段精读 | <img src="imgs/mae.jpg" width="200px"/> | 47:04 | [B站](https://www.bilibili.com/video/BV1sq4y1q77t), [知乎](https://www.zhihu.com/zvideo/1452458167968251904), [YouTube](https://youtu.be/mYlX2dpdHHM) |
 | 11/29/21 | [ViT](https://arxiv.org/pdf/2010.11929.pdf) 逐段精读 | <img src="imgs/vit.jpg" width="200px"/> | 71:30 | [B站](https://www.bilibili.com/video/BV15P4y137jb/), [知乎](https://www.zhihu.com/zvideo/1449195245754380288), [YouTube](https://youtu.be/FRFt3x0bO94) |
@@ -38,7 +39,7 @@
 |  ✅  | 2015 |  [ResNet](https://arxiv.org/pdf/1512.03385.pdf) | 构建深层网络都要有的残差连接。         | 80816 ([link](https://www.semanticscholar.org/paper/Deep-Residual-Learning-for-Image-Recognition-He-Zhang/2c03df8b48bf3fa39054345bafabfeff15bfd11d)) |
 |  | 2017 | [MobileNet](https://arxiv.org/pdf/1704.04861.pdf) | 适合终端设备的小CNN             | 8695 ([link](https://www.semanticscholar.org/paper/MobileNets%3A-Efficient-Convolutional-Neural-Networks-Howard-Zhu/3647d6d0f151dc05626449ee09cc7bce55be497e)) |
 | | 2019 | [EfficientNet](https://arxiv.org/pdf/1905.11946.pdf) | 通过架构搜索得到的CNN             | 3426 ([link](https://www.semanticscholar.org/paper/EfficientNet%3A-Rethinking-Model-Scaling-for-Neural-Tan-Le/4f2eda8077dc7a69bb2b4e0a1a086cf054adb3f9)) |
-| | 2019 | [MoCo](https://arxiv.org/pdf/1911.05722.pdf) | 无监督训练效果也很好             | 2011 ([link](https://www.semanticscholar.org/paper/Momentum-Contrast-for-Unsupervised-Visual-Learning-He-Fan/ec46830a4b275fd01d4de82bffcabe6da086128f)) |
+| ✅ | 2019 | [MoCo](https://arxiv.org/pdf/1911.05722.pdf) | 无监督训练效果也很好             | 2011 ([link](https://www.semanticscholar.org/paper/Momentum-Contrast-for-Unsupervised-Visual-Learning-He-Fan/ec46830a4b275fd01d4de82bffcabe6da086128f)) |
 | | 2021 |  [Non-deep networks](https://arxiv.org/pdf/2110.07641.pdf) | 让不深的网络也能在ImageNet刷到SOTA             | 0 ([link](https://www.semanticscholar.org/paper/Non-deep-Networks-Goyal-Bochkovskiy/0d7f6086772079bc3e243b7b375a9ca1a517ba8b)) |
 
 ### 计算机视觉 - Transformer
