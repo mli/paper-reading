@@ -92,8 +92,13 @@
 |  | 2019 | [GPT-2](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)  |         | 4534 ([link](https://www.semanticscholar.org/paper/Language-Models-are-Unsupervised-Multitask-Learners-Radford-Wu/9405cc0d6169988371b2755e573cc28650d14dfe)) |
 |  | 2020 |  [GPT-3](https://arxiv.org/abs/2005.14165) | 朝着zero-shot learning迈了一大步            | 2548 ([link](https://www.semanticscholar.org/paper/Language-Models-are-Few-Shot-Learners-Brown-Mann/6b85b63579a916f705a8e10a49bd8d849d91b1fc)) |
 
+### 图神经网络
 
-### 通用技术
+| 已录制 | 年份 | 名字                                                         | 简介                 | 引用                                                         |
+| ------ | ---- | ------------------------------------------------------------ | -------------------- | -----------------------------------------------------------: |
+|  ✅ |  2021 | [图神经网络介绍](https://distill.pub/2021/gnn-intro/) | GNN的可视化介绍            | 4 ([link](https://www.semanticscholar.org/paper/A-Gentle-Introduction-to-Graph-Neural-Networks-S%C3%A1nchez-Lengeling-Reif/2c0e0440882a42be752268d0b64243243d752a74)) |
+
+### 优化算法
 
 | 已录制 | 年份 | 名字                                                         | 简介                 | 引用                                                         |
 | ------ | ---- | ------------------------------------------------------------ | -------------------- | -----------------------------------------------------------: |
@@ -101,18 +106,11 @@
 | | 2016 |  [为什么超大的模型泛化性不错](https://arxiv.org/abs/1611.03530)   |         | 3112 ([link](https://www.semanticscholar.org/paper/Understanding-deep-learning-requires-rethinking-Zhang-Bengio/54ddb00fa691728944fd8becea90a373d21597cf)) |
 | | 2017 | [为什么Momentum有效](https://distill.pub/2017/momentum/) | Distill的可视化介绍      | 116 ([link](https://www.semanticscholar.org/paper/Why-Momentum-Really-Works-Goh/3e8ccf9d3d843c9855c5d76ab66d3e775384da72)) |
 
-### 其他领域
+
+### 新领域应用
+
 
 | 已录制 | 年份 | 名字                                                         | 简介                 | 引用                                                         |
 | ------ | ---- | ------------------------------------------------------------ | -------------------- | -----------------------------------------------------------: |
-|  | 2014 | [Two-stream networks](https://arxiv.org/abs/1406.2199) | 首次超越手工特征的视频分类架构             | 5093 ([link](https://www.semanticscholar.org/paper/Two-Stream-Convolutional-Networks-for-Action-in-Simonyan-Zisserman/67dccc9a856b60bdc4d058d83657a089b8ad4486)) |
 | | 2016 | [AlphaGo](https://storage.googleapis.com/deepmind-media/alphago/AlphaGoNaturePaper.pdf) | 强化学习出圈           | 10257 ([link](https://www.semanticscholar.org/paper/Mastering-the-game-of-Go-with-deep-neural-networks-Silver-Huang/846aedd869a00c09b40f1f1f35673cb22bc87490)) |
-|  ✅ |  2021 | [图神经网络介绍](https://distill.pub/2021/gnn-intro/) | GNN的可视化介绍            | 4 ([link](https://www.semanticscholar.org/paper/A-Gentle-Introduction-to-Graph-Neural-Networks-S%C3%A1nchez-Lengeling-Reif/2c0e0440882a42be752268d0b64243243d752a74)) |
-|  | 2021 | [证明数学定理](https://www.nature.com/articles/s41586-021-04086-x.pdf) | 分析不同数学物体之前的联系来帮助发现和证明定理   | 4 ([link](https://www.semanticscholar.org/paper/Advancing-mathematics-by-guiding-human-intuition-AI-Davies-Velickovic/f672b8fb430606fee0bb368f16603531ce1e90c4)) |
-
-TODO：
-
-1. Out-of-distribution
-1. AlphaFold
-1. Anchor-free object detection
-1. Knowledge graph
+|  | 2021 | [指导数学直觉](https://www.nature.com/articles/s41586-021-04086-x.pdf) | 分析不同数学物体之前的联系来帮助发现新定理   | 4 ([link](https://www.semanticscholar.org/paper/Advancing-mathematics-by-guiding-human-intuition-AI-Davies-Velickovic/f672b8fb430606fee0bb368f16603531ce1e90c4)) |
