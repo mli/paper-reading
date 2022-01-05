@@ -5,6 +5,7 @@
 
 | 日期 | 标题 | 封面 | 时长 | 视频（4K） |
 | -- | -- | -- | --: | -- |
+| 1/?/22 | [指导数学直觉](https://www.nature.com/articles/s41586-021-04086-x.pdf) | <img src="imgs/math_conj.jpg" width="200px"/> | 52:51 | | 
 | 12/20/21 | [对比学习](#contrastive_learning)论文综述 | <img src="imgs/contrastive.jpg" width="200px"/> | 1:32:01 |[B站](https://www.bilibili.com/video/BV19S4y1M7hm/), [知乎](https://www.zhihu.com/zvideo/1460828005077164032), [YouTube](https://www.youtube.com/watch?v=1pvxufGRuW4)
 | 12/15/21 | [MoCo](https://arxiv.org/pdf/1911.05722.pdf) 逐段精读 | <img src="imgs/mocov1.jpg" width="200px"/> | 1:24:11 |  [B站](https://www.bilibili.com/video/BV1C3411s7t9/), [知乎](https://www.zhihu.com/zvideo/1454723120678936576), [YouTube](https://www.youtube.com/watch?v=1pvxufGRuW4) |
 | 12/9/21 | 如何找研究想法 1 | <img src="imgs/mae_idea.jpg" width="200px"/> | 5:34 | [B站](https://www.bilibili.com/video/BV1qq4y1z7F2/) |
