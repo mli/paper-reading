@@ -5,14 +5,15 @@
 
 | 日期 | 标题 | 封面 | 时长 | 视频（4K） |
 | -- | -- | -- | -- | -- |
-| 12/15/21 | [MoCo](https://arxiv.org/pdf/1911.05722.pdf) 逐段精读 | <img src="imgs/mocov1.jpg" width="200px"/> | 84:11 |  [B站](https://www.bilibili.com/video/BV1C3411s7t9/), [知乎](https://www.zhihu.com/zvideo/1454723120678936576), YouTube |
+| 12/20/21 | [对比学习](#contrastive_learning)论文综述 | <img src="imgs/contrastive.jpg" width="200px"/> | 1:32:01 |[B站](https://www.bilibili.com/video/BV19S4y1M7hm/), [知乎](https://www.zhihu.com/zvideo/1460828005077164032), [YouTube](https://www.youtube.com/watch?v=1pvxufGRuW4)
+| 12/15/21 | [MoCo](https://arxiv.org/pdf/1911.05722.pdf) 逐段精读 | <img src="imgs/mocov1.jpg" width="200px"/> | 1:24:11 |  [B站](https://www.bilibili.com/video/BV1C3411s7t9/), [知乎](https://www.zhihu.com/zvideo/1454723120678936576), [YouTube](https://www.youtube.com/watch?v=1pvxufGRuW4) |
 | 12/9/21 | 如何找研究想法 1 | <img src="imgs/mae_idea.jpg" width="200px"/> | 5:34 | [B站](https://www.bilibili.com/video/BV1qq4y1z7F2/) |
 | 12/8/21 | [MAE](https://arxiv.org/pdf/2111.06377.pdf) 逐段精读 | <img src="imgs/mae.jpg" width="200px"/> | 47:04 | [B站](https://www.bilibili.com/video/BV1sq4y1q77t), [知乎](https://www.zhihu.com/zvideo/1452458167968251904), [YouTube](https://youtu.be/mYlX2dpdHHM) |
-| 11/29/21 | [ViT](https://arxiv.org/pdf/2010.11929.pdf) 逐段精读 | <img src="imgs/vit.jpg" width="200px"/> | 71:30 | [B站](https://www.bilibili.com/video/BV15P4y137jb/), [知乎](https://www.zhihu.com/zvideo/1449195245754380288), [YouTube](https://youtu.be/FRFt3x0bO94) |
+| 11/29/21 | [ViT](https://arxiv.org/pdf/2010.11929.pdf) 逐段精读 | <img src="imgs/vit.jpg" width="200px"/> | 1:11:30 | [B站](https://www.bilibili.com/video/BV15P4y137jb/), [知乎](https://www.zhihu.com/zvideo/1449195245754380288), [YouTube](https://youtu.be/FRFt3x0bO94) |
 | 11/18/21 | [BERT](https://arxiv.org/abs/1810.04805) 逐段精读 | <img src="imgs/bert.jpg" width="200px"/> | 45:49  | [B站](https://www.bilibili.com/video/BV1PL411M7eQ), [知乎](https://www.zhihu.com/zvideo/1445340200976785408), [YouTube](https://youtu.be/ULD3uIb2MHQ) |
 | 11/9/21 | [GAN](https://papers.nips.cc/paper/2014/file/5ca3e9b122f61f8f06494c97b1afccf3-Paper.pdf) 逐段精读 | <img src="imgs/gan.jpg" width="200px"/> | 46:16  | [B站](https://www.bilibili.com/video/BV1rb4y187vD/), [知乎](https://www.zhihu.com/zvideo/1442091389241159681), [YouTube](https://www.youtube.com/watch?v=g_0HtlrLiDo) |
-| 11/3/21 | 零基础多图详解 [图神经网络](https://distill.pub/2021/gnn-intro/)（GNN/GCN） | <img src="imgs/gnn.jpg" width="200px"/> | 66:19 | [B站](https://www.bilibili.com/video/BV1iT4y1d7zP/), [知乎](https://www.zhihu.com/zvideo/1439540657619087360), [YouTube](https://youtu.be/sejA2PtCITw) |
-| 10/27/21 | [Transformer](https://arxiv.org/abs/1706.03762) 逐段精读<br> （视频中提到的文献 [^transformer]) |<img src="imgs/transformer.jpg" width="200px"/> | 87:05 |[B站](https://www.bilibili.com/video/BV1pu411o7BE/), [知乎](https://www.zhihu.com/zvideo/1437034536677404672), [YouTube](https://youtu.be/nzqlFIcCSWQ)|
+| 11/3/21 | 零基础多图详解 [图神经网络](https://distill.pub/2021/gnn-intro/)（GNN/GCN） | <img src="imgs/gnn.jpg" width="200px"/> | 1:06:19 | [B站](https://www.bilibili.com/video/BV1iT4y1d7zP/), [知乎](https://www.zhihu.com/zvideo/1439540657619087360), [YouTube](https://youtu.be/sejA2PtCITw) |
+| 10/27/21 | [Transformer](https://arxiv.org/abs/1706.03762) 逐段精读<br> （视频中提到的文献 [^transformer]) |<img src="imgs/transformer.jpg" width="200px"/> | 1:27:05 |[B站](https://www.bilibili.com/video/BV1pu411o7BE/), [知乎](https://www.zhihu.com/zvideo/1437034536677404672), [YouTube](https://youtu.be/nzqlFIcCSWQ)|
 | 10/22/21 | [ResNet](https://arxiv.org/abs/1512.03385) 论文逐段精读 | <img src="imgs/resnet-2.jpg" width="200px"/> | 53:46 | [B站](https://www.bilibili.com/video/BV1P3411y7nn/), [知乎](https://www.zhihu.com/zvideo/1434795406001180672), [YouTube](https://www.youtube.com/watch?v=pWMnzCX4cwQ) |
 | 10/21/21 | 撑起计算机视觉半边天的 [ResNet](https://arxiv.org/abs/1512.03385) | <img src="imgs/resnet-1.jpg" width="200px"/> | 11:50 | [B站](https://www.bilibili.com/video/BV1Fb4y1h73E/), [知乎](https://www.zhihu.com/zvideo/1434787226101751808), [YouTube](https://www.youtube.com/watch?v=NnSldWhSqvY) |
 | 10/15/21 | [AlexNet](https://papers.nips.cc/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf) 论文逐段精读 | <img src="imgs/alexnet-2.jpg" width="200px"/> | 55:21 | [B站](https://www.bilibili.com/video/BV1hq4y157t1/), [知乎](https://www.zhihu.com/zvideo/1432354207483871232), [YouTube](https://www.youtube.com/watch?v=zjnxu8KUYKA) |
@@ -80,7 +81,7 @@
 |        | 2019 | [CentorNet](https://arxiv.org/pdf/1904.07850.pdf) | Anchor free     | 773 ([link](https://www.semanticscholar.org/paper/Objects-as-Points-Zhou-Wang/6a2e2fd1b5bb11224daef98b3fb6d029f68a73f2)) |
 |        | 2020 | [DETR](https://arxiv.org/pdf/2005.12872.pdf)      | Transformer     | 1053 ([link](https://www.semanticscholar.org/paper/End-to-End-Object-Detection-with-Transformers-Carion-Massa/962dc29fdc3fbdc5930a10aba114050b82fe5a3e)) |
 
-
+<a name="contrastive_learning"></a>
 ### 计算机视觉 - 对比学习
 
 
