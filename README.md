@@ -5,7 +5,7 @@
 
 | 日期 | 标题 | 封面 | 时长 | 视频（4K） |
 | -- | -- | -- | --: | -- |
-| 1/7/22 | [指导数学直觉](https://www.nature.com/articles/s41586-021-04086-x.pdf) | <img src="imgs/math_conj.jpg" width="200px"/> | 52:51 | [B站](https://www.bilibili.com/video/BV1YZ4y1S72j/) | 
+| 1/7/22 | [指导数学直觉](https://www.nature.com/articles/s41586-021-04086-x.pdf) | <img src="imgs/math_conj.jpg" width="200px"/> | 52:51 | [B站](https://www.bilibili.com/video/BV1YZ4y1S72j/), [知乎](https://www.zhihu.com/zvideo/1464060386375299072), [YouTube](https://youtu.be/czFGjvhtss8) | 
 | 1/5/22 | AlphaFold 2 预告 | <img src="imgs/alphafold_2_preview.jpg" width="200px"/> | 03:28 | [B站](https://www.bilibili.com/video/BV1Eu411U7Te/) | 
 | 12/20/21 | [对比学习](#contrastive_learning)论文综述 | <img src="imgs/contrastive.jpg" width="200px"/> | 1:32:01 |[B站](https://www.bilibili.com/video/BV19S4y1M7hm/), [知乎](https://www.zhihu.com/zvideo/1460828005077164032), [YouTube](https://www.youtube.com/watch?v=1pvxufGRuW4)
 | 12/15/21 | [MoCo](https://arxiv.org/pdf/1911.05722.pdf) 逐段精读 | <img src="imgs/mocov1.jpg" width="200px"/> | 1:24:11 |  [B站](https://www.bilibili.com/video/BV1C3411s7t9/), [知乎](https://www.zhihu.com/zvideo/1454723120678936576), [YouTube](https://www.youtube.com/watch?v=1pvxufGRuW4) |
@@ -137,4 +137,4 @@
 | | 2016 | [AlphaGo](https://storage.googleapis.com/deepmind-media/alphago/AlphaGoNaturePaper.pdf) | 强化学习出圈           | 10257 ([link](https://www.semanticscholar.org/paper/Mastering-the-game-of-Go-with-deep-neural-networks-Silver-Huang/846aedd869a00c09b40f1f1f35673cb22bc87490)) |
 | | 2020 | [AlphaFold](https://discovery.ucl.ac.uk/id/eprint/10089234/1/343019_3_art_0_py4t4l_convrt.pdf) | 赢得比赛的的蛋白质3D结构预测 | 1074（[link](https://www.semanticscholar.org/paper/Improved-protein-structure-prediction-using-from-Senior-Evans/3a083d843f891b3574494c385699c21766ce8b7a)) |
 | | 2021 | [AlphaFold 2](https://www.nature.com/articles/s41586-021-03819-2.pdf) | 原子级别精度的蛋白质3D结构预测 | 921 ([link](https://www.semanticscholar.org/paper/Highly-accurate-protein-structure-prediction-with-Jumper-Evans/dc32a984b651256a8ec282be52310e6bd33d9815))|
-|  | 2021 | [指导数学直觉](https://www.nature.com/articles/s41586-021-04086-x.pdf) | 分析不同数学物体之前的联系来帮助发现新定理   | 4 ([link](https://www.semanticscholar.org/paper/Advancing-mathematics-by-guiding-human-intuition-AI-Davies-Velickovic/f672b8fb430606fee0bb368f16603531ce1e90c4)) |
+| ✅ | 2021 | [指导数学直觉](https://www.nature.com/articles/s41586-021-04086-x.pdf) | 分析不同数学物体之前的联系来帮助发现新定理   | 4 ([link](https://www.semanticscholar.org/paper/Advancing-mathematics-by-guiding-human-intuition-AI-Davies-Velickovic/f672b8fb430606fee0bb368f16603531ce1e90c4)) |
