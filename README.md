@@ -5,7 +5,7 @@
 
 | 日期 | 标题 | 封面 | 时长 | 视频 |
 | -- | -- | -- | --: | -- |
-| 1/15/22 | [Swin Transformer](https://arxiv.org/pdf/2103.14030.pdf) 精读 | <img src="imgs/swin_transformer.jpg" width="200px"/> | 52:51 | [B站](https://www.bilibili.com/video/BV13L4y1475U/), 知乎, YouTube | 
+| 1/15/22 | [Swin Transformer](https://arxiv.org/pdf/2103.14030.pdf) 精读 | <img src="imgs/swin_transformer.jpg" width="200px"/> | 52:51 | [B站](https://www.bilibili.com/video/BV13L4y1475U/), [知乎](https://www.zhihu.com/zvideo/1466282983652691968), [YouTube](https://youtu.be/luP3-Fs0QCo) | 
 | 1/7/22 | [指导数学直觉](https://www.nature.com/articles/s41586-021-04086-x.pdf) | <img src="imgs/math_conj.jpg" width="200px"/> | 52:51 | [B站](https://www.bilibili.com/video/BV1YZ4y1S72j/), [知乎](https://www.zhihu.com/zvideo/1464060386375299072), [YouTube](https://youtu.be/czFGjvhtss8) | 
 | 1/5/22 | AlphaFold 2 预告 | <img src="imgs/alphafold_2_preview.jpg" width="200px"/> | 03:28 | [B站](https://www.bilibili.com/video/BV1Eu411U7Te/) | 
 | 12/20/21 | [对比学习](#contrastive_learning)论文综述 | <img src="imgs/contrastive.jpg" width="200px"/> | 1:32:01 |[B站](https://www.bilibili.com/video/BV19S4y1M7hm/), [知乎](https://www.zhihu.com/zvideo/1460828005077164032), [YouTube](https://www.youtube.com/watch?v=1pvxufGRuW4)
@@ -51,7 +51,7 @@
 | ------ | ---- | ------------------------------------------------------------ | -------------------- | -----------------------------------------------------------: |
 | ✅ | 2020 | [ViT](https://arxiv.org/pdf/2010.11929.pdf) | Transformer杀入CV界             | 1527 ([link](https://www.semanticscholar.org/paper/An-Image-is-Worth-16x16-Words%3A-Transformers-for-at-Dosovitskiy-Beyer/7b15fa1b8d413fbe14ef7a97f651f47f5aff3903)) |
 | | 2021 |  [CLIP](https://openai.com/blog/clip/) | 图片和文本之间的对比学习             | 399 ([link](https://www.semanticscholar.org/paper/Learning-Transferable-Visual-Models-From-Natural-Radford-Kim/6f870f7f02a8c59c3e23f407f3ef00dd1dcf8fc4)) |
-| | 2021 | [Swin Transformer](https://arxiv.org/pdf/2103.14030.pdf) | 多层次的Vision Transformer             | 384 ([link](https://www.semanticscholar.org/paper/Swin-Transformer%3A-Hierarchical-Vision-Transformer-Liu-Lin/c8b25fab5608c3e033d34b4483ec47e68ba109b7)) |
+| ✅ | 2021 | [Swin Transformer](https://arxiv.org/pdf/2103.14030.pdf) | 多层次的Vision Transformer             | 384 ([link](https://www.semanticscholar.org/paper/Swin-Transformer%3A-Hierarchical-Vision-Transformer-Liu-Lin/c8b25fab5608c3e033d34b4483ec47e68ba109b7)) |
 | | 2021 | [MLP-Mixer](https://arxiv.org/pdf/2105.01601.pdf) | 使用MLP替换self-attention      | 137 ([link](https://www.semanticscholar.org/paper/MLP-Mixer%3A-An-all-MLP-Architecture-for-Vision-Tolstikhin-Houlsby/2def61f556f9a5576ace08911496b7c7e4f970a4)) |
 | ✅ | 2021 | [MAE](https://arxiv.org/pdf/2111.06377.pdf) | BERT的CV版       | 4 ([link](https://www.semanticscholar.org/paper/Masked-Autoencoders-Are-Scalable-Vision-Learners-He-Chen/c1962a8cf364595ed2838a097e9aa7cd159d3118)) |
 
