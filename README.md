@@ -5,6 +5,7 @@
 
 | 日期 | 标题 | 封面 | 时长 | 视频 |
 | -- | -- | -- | --: | -- |
+| 1/18/22 | 如何判断（你自己的）研究工作的价值 | <img src="imgs/research_value.jpg" width="200px"/> |  9:59 | [B站](https://www.bilibili.com/video/BV1oL411c7Us/) |
 | 1/15/22 | [Swin Transformer](https://arxiv.org/pdf/2103.14030.pdf) 精读 | <img src="imgs/swin_transformer.jpg" width="200px"/> | 1:00:21 | [B站](https://www.bilibili.com/video/BV13L4y1475U/), [知乎](https://www.zhihu.com/zvideo/1466282983652691968), [YouTube](https://youtu.be/luP3-Fs0QCo) | 
 | 1/7/22 | [指导数学直觉](https://www.nature.com/articles/s41586-021-04086-x.pdf) | <img src="imgs/math_conj.jpg" width="200px"/> | 52:51 | [B站](https://www.bilibili.com/video/BV1YZ4y1S72j/), [知乎](https://www.zhihu.com/zvideo/1464060386375299072), [YouTube](https://youtu.be/czFGjvhtss8) | 
 | 1/5/22 | AlphaFold 2 预告 | <img src="imgs/alphafold_2_preview.jpg" width="200px"/> | 03:28 | [B站](https://www.bilibili.com/video/BV1Eu411U7Te/) | 
