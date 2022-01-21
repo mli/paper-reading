@@ -5,6 +5,7 @@
 
 | 日期 | 标题 | 封面 | 时长 | 视频 |
 | -- | -- | -- | --: | -- |
+| 1/?/22 | [AlphaFold 2](https://www.nature.com/articles/s41586-021-03819-2.pdf) 精读 | <img src="imgs/alphafold_2.jpg" width="200px"/> |  1:15:28 | |
 | 1/18/22 | 如何判断（你自己的）研究工作的价值 | <img src="imgs/research_value.jpg" width="200px"/> |  9:59 | [B站](https://www.bilibili.com/video/BV1oL411c7Us/) |
 | 1/15/22 | [Swin Transformer](https://arxiv.org/pdf/2103.14030.pdf) 精读 | <img src="imgs/swin_transformer.jpg" width="200px"/> | 1:00:21 | [B站](https://www.bilibili.com/video/BV13L4y1475U/), [知乎](https://www.zhihu.com/zvideo/1466282983652691968), [YouTube](https://youtu.be/luP3-Fs0QCo) | 
 | 1/7/22 | [指导数学直觉](https://www.nature.com/articles/s41586-021-04086-x.pdf) | <img src="imgs/math_conj.jpg" width="200px"/> | 52:51 | [B站](https://www.bilibili.com/video/BV1YZ4y1S72j/), [知乎](https://www.zhihu.com/zvideo/1464060386375299072), [YouTube](https://youtu.be/czFGjvhtss8) | 
@@ -138,5 +139,5 @@
 | ------ | ---- | ------------------------------------------------------------ | -------------------- | -----------------------------------------------------------: |
 | | 2016 | [AlphaGo](https://storage.googleapis.com/deepmind-media/alphago/AlphaGoNaturePaper.pdf) | 强化学习出圈           | 10257 ([link](https://www.semanticscholar.org/paper/Mastering-the-game-of-Go-with-deep-neural-networks-Silver-Huang/846aedd869a00c09b40f1f1f35673cb22bc87490)) |
 | | 2020 | [AlphaFold](https://discovery.ucl.ac.uk/id/eprint/10089234/1/343019_3_art_0_py4t4l_convrt.pdf) | 赢得比赛的的蛋白质3D结构预测 | 1074（[link](https://www.semanticscholar.org/paper/Improved-protein-structure-prediction-using-from-Senior-Evans/3a083d843f891b3574494c385699c21766ce8b7a)) |
-| | 2021 | [AlphaFold 2](https://www.nature.com/articles/s41586-021-03819-2.pdf) | 原子级别精度的蛋白质3D结构预测 | 921 ([link](https://www.semanticscholar.org/paper/Highly-accurate-protein-structure-prediction-with-Jumper-Evans/dc32a984b651256a8ec282be52310e6bd33d9815))|
+| ✅ | 2021 | [AlphaFold 2](https://www.nature.com/articles/s41586-021-03819-2.pdf) | 原子级别精度的蛋白质3D结构预测 | 921 ([link](https://www.semanticscholar.org/paper/Highly-accurate-protein-structure-prediction-with-Jumper-Evans/dc32a984b651256a8ec282be52310e6bd33d9815))|
 | ✅ | 2021 | [指导数学直觉](https://www.nature.com/articles/s41586-021-04086-x.pdf) | 分析不同数学物体之前的联系来帮助发现新定理   | 4 ([link](https://www.semanticscholar.org/paper/Advancing-mathematics-by-guiding-human-intuition-AI-Davies-Velickovic/f672b8fb430606fee0bb368f16603531ce1e90c4)) |
