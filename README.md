@@ -82,7 +82,7 @@
 |        | 2017 | [Mask R-CNN](http://arxiv.org/abs/1703.06870v3)   |                 | 3580 ([link](https://www.semanticscholar.org/paper/ea99a5535388196d0d44be5b4d7dd02029a43bb2)) |
 |        | 2017 | [YOLOv2](http://arxiv.org/abs/1612.08242v1)       |                 | 6915 ([link](https://www.semanticscholar.org/paper/7d39d69b23424446f0400ef603b2e3e22d0309d6)) |
 |        | 2018 | [YOLOv3](http://arxiv.org/abs/1804.02767v1)       |                 | 7002 ([link](https://www.semanticscholar.org/paper/e4845fb1e624965d4f036d7fd32e8dcdd2408148)) |
-|        | 2019 | [CentorNet](https://arxiv.org/pdf/1904.07850.pdf) | Anchor free     | 773 ([link](https://www.semanticscholar.org/paper/Objects-as-Points-Zhou-Wang/6a2e2fd1b5bb11224daef98b3fb6d029f68a73f2)) |
+|        | 2019 | [CenterNet](https://arxiv.org/pdf/1904.07850.pdf) | Anchor free     | 773 ([link](https://www.semanticscholar.org/paper/Objects-as-Points-Zhou-Wang/6a2e2fd1b5bb11224daef98b3fb6d029f68a73f2)) |
 |        | 2020 | [DETR](https://arxiv.org/pdf/2005.12872.pdf)      | Transformer     | 1053 ([link](https://www.semanticscholar.org/paper/End-to-End-Object-Detection-with-Transformers-Carion-Massa/962dc29fdc3fbdc5930a10aba114050b82fe5a3e)) |
 
 <a name="contrastive_learning"></a>
