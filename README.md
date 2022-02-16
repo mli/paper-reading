@@ -6,9 +6,9 @@
 | 日期 | 标题 | 封面 | 时长 | 视频 |
 | -- | -- | -- | --: | -- |
 | 2/10/22 | [CLIP](https://openai.com/blog/clip/) 逐段精读 | <img src="imgs/clip.jpg" width="200px"/> | 01:38:25 | [B站](https://www.bilibili.com/video/BV1SL4y1s7LQ/), [知乎](https://www.zhihu.com/zvideo/1475706654562299904), [YouTube](https://youtu.be/OZF1t_Hieq8) |
-| 2/6/22 | 你（被）吐槽过[论文不够 novel](https://perceiving-systems.blog/en/post/novelty-in-science) 吗？| <img src="imgs/novelty.jpg" width="200px"/> | 14:11 | [B站](https://www.bilibili.com/video/BV1ea41127Bq/) |
+| 2/6/22 | 你（被）吐槽过[论文不够 novel](https://perceiving-systems.blog/en/post/novelty-in-science) 吗？| <img src="imgs/novelty.jpg" width="200px"/> | 14:11 | [B站](https://www.bilibili.com/video/BV1ea41127Bq/), [知乎](https://www.zhihu.com/zvideo/1475719090198876161) |
 | 1/23/22 | [AlphaFold 2](https://www.nature.com/articles/s41586-021-03819-2.pdf) 精读 | <img src="imgs/alphafold_2.jpg" width="200px"/> |  1:15:28 | [B站](https://www.bilibili.com/video/BV1oR4y1K7Xr/), [知乎](https://www.zhihu.com/zvideo/1469132410537717760), [YouTube](https://youtu.be/Oy3OCoGUr-w) |
-| 1/18/22 | 如何判断（你自己的）研究工作的价值 | <img src="imgs/research_value.jpg" width="200px"/> |  9:59 | [B站](https://www.bilibili.com/video/BV1oL411c7Us/) |
+| 1/18/22 | 如何判断（你自己的）研究工作的价值 | <img src="imgs/research_value.jpg" width="200px"/> |  9:59 | [B站](https://www.bilibili.com/video/BV1oL411c7Us/), [知乎](https://www.zhihu.com/zvideo/1475716940051869696) |
 | 1/15/22 | [Swin Transformer](https://arxiv.org/pdf/2103.14030.pdf) 精读 | <img src="imgs/swin_transformer.jpg" width="200px"/> | 1:00:21 | [B站](https://www.bilibili.com/video/BV13L4y1475U/), [知乎](https://www.zhihu.com/zvideo/1466282983652691968), [YouTube](https://youtu.be/luP3-Fs0QCo) | 
 | 1/7/22 | [指导数学直觉](https://www.nature.com/articles/s41586-021-04086-x.pdf) | <img src="imgs/math_conj.jpg" width="200px"/> | 52:51 | [B站](https://www.bilibili.com/video/BV1YZ4y1S72j/), [知乎](https://www.zhihu.com/zvideo/1464060386375299072), [YouTube](https://youtu.be/czFGjvhtss8) | 
 | 1/5/22 | AlphaFold 2 预告 | <img src="imgs/alphafold_2_preview.jpg" width="200px"/> | 03:28 | [B站](https://www.bilibili.com/video/BV1Eu411U7Te/) | 
@@ -54,7 +54,7 @@
 | 已录制 | 年份 | 名字                                                         | 简介                 | 引用                                                         |
 | ------ | ---- | ------------------------------------------------------------ | -------------------- | -----------------------------------------------------------: |
 | ✅ | 2020 | [ViT](https://arxiv.org/pdf/2010.11929.pdf) | Transformer杀入CV界             | 1527 ([link](https://www.semanticscholar.org/paper/An-Image-is-Worth-16x16-Words%3A-Transformers-for-at-Dosovitskiy-Beyer/7b15fa1b8d413fbe14ef7a97f651f47f5aff3903)) |
-| | 2021 |  [CLIP](https://openai.com/blog/clip/) | 图片和文本之间的对比学习             | 399 ([link](https://www.semanticscholar.org/paper/Learning-Transferable-Visual-Models-From-Natural-Radford-Kim/6f870f7f02a8c59c3e23f407f3ef00dd1dcf8fc4)) |
+| ✅ | 2021 |  [CLIP](https://openai.com/blog/clip/) | 图片和文本之间的对比学习             | 399 ([link](https://www.semanticscholar.org/paper/Learning-Transferable-Visual-Models-From-Natural-Radford-Kim/6f870f7f02a8c59c3e23f407f3ef00dd1dcf8fc4)) |
 | ✅ | 2021 | [Swin Transformer](https://arxiv.org/pdf/2103.14030.pdf) | 多层次的Vision Transformer             | 384 ([link](https://www.semanticscholar.org/paper/Swin-Transformer%3A-Hierarchical-Vision-Transformer-Liu-Lin/c8b25fab5608c3e033d34b4483ec47e68ba109b7)) |
 | | 2021 | [MLP-Mixer](https://arxiv.org/pdf/2105.01601.pdf) | 使用MLP替换self-attention      | 137 ([link](https://www.semanticscholar.org/paper/MLP-Mixer%3A-An-all-MLP-Architecture-for-Vision-Tolstikhin-Houlsby/2def61f556f9a5576ace08911496b7c7e4f970a4)) |
 | ✅ | 2021 | [MAE](https://arxiv.org/pdf/2111.06377.pdf) | BERT的CV版       | 4 ([link](https://www.semanticscholar.org/paper/Masked-Autoencoders-Are-Scalable-Vision-Learners-He-Chen/c1962a8cf364595ed2838a097e9aa7cd159d3118)) |
