@@ -5,6 +5,7 @@
 
 | 日期 | 标题 | 封面 | 时长 | 视频 |
 | -- | -- | -- | --: | -- |
+| 2/24/22 | [Two-Stream](https://proceedings.neurips.cc/paper/2014/file/00ec53c4682d36f5c4359f4ae7bd7ba1-Paper.pdf) 逐段精读 |  <img src="imgs/twostream.jpg" width="200px"/> | 52:57 | [B站](https://www.bilibili.com/video/BV1mq4y1x7RU/) |
 | 2/10/22 | [CLIP](https://openai.com/blog/clip/) 逐段精读 | <img src="imgs/clip.jpg" width="200px"/> | 01:38:25 | [B站](https://www.bilibili.com/video/BV1SL4y1s7LQ/), [知乎](https://www.zhihu.com/zvideo/1475706654562299904), [YouTube](https://youtu.be/OZF1t_Hieq8) |
 | 2/6/22 | 你（被）吐槽过[论文不够 novel](https://perceiving-systems.blog/en/post/novelty-in-science) 吗？| <img src="imgs/novelty.jpg" width="200px"/> | 14:11 | [B站](https://www.bilibili.com/video/BV1ea41127Bq/), [知乎](https://www.zhihu.com/zvideo/1475719090198876161) |
 | 1/23/22 | [AlphaFold 2](https://www.nature.com/articles/s41586-021-03819-2.pdf) 精读 | <img src="imgs/alphafold_2.jpg" width="200px"/> |  1:15:28 | [B站](https://www.bilibili.com/video/BV1oR4y1K7Xr/), [知乎](https://www.zhihu.com/zvideo/1469132410537717760), [YouTube](https://youtu.be/Oy3OCoGUr-w) |
