@@ -5,6 +5,7 @@
 
 | 日期 | 标题 | 封面 | 时长 | 视频 |
 | -- | -- | -- | --: | -- |
+| 2/?/22 | [GPT](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf), [GPT-2](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf), [GPT-3](https://arxiv.org/abs/2005.14165) 精读 | <img src="imgs/gpt3.jpg" width="200px"/> | 1:29:58 |  |
 | 2/24/22 | [Two-Stream](https://proceedings.neurips.cc/paper/2014/file/00ec53c4682d36f5c4359f4ae7bd7ba1-Paper.pdf) 逐段精读 |  <img src="imgs/twostream.jpg" width="200px"/> | 52:57 | [B站](https://www.bilibili.com/video/BV1mq4y1x7RU/) |
 | 2/10/22 | [CLIP](https://openai.com/blog/clip/) 逐段精读 | <img src="imgs/clip.jpg" width="200px"/> | 01:38:25 | [B站](https://www.bilibili.com/video/BV1SL4y1s7LQ/), [知乎](https://www.zhihu.com/zvideo/1475706654562299904), [YouTube](https://youtu.be/OZF1t_Hieq8) |
 | 2/6/22 | 你（被）吐槽过[论文不够 novel](https://perceiving-systems.blog/en/post/novelty-in-science) 吗？| <img src="imgs/novelty.jpg" width="200px"/> | 14:11 | [B站](https://www.bilibili.com/video/BV1ea41127Bq/), [知乎](https://www.zhihu.com/zvideo/1475719090198876161) |
@@ -115,10 +116,10 @@
 | 已录制 | 年份 | 名字                                                         | 简介                 | 引用                                                         |
 | ------ | ---- | ------------------------------------------------------------ | -------------------- | -----------------------------------------------------------: |
 | ✅ | 2017 | [Transformer](https://arxiv.org/abs/1706.03762) | 继MLP、CNN、RNN后的第四大类架构             | 26029 ([link](https://www.semanticscholar.org/paper/Attention-is-All-you-Need-Vaswani-Shazeer/204e3073870fae3d05bcbc2f6a8e263d9b72e776)) |
-| | 2018 | [GPT](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf) | 使用 Transformer 来做预训练         | 2752 ([link](https://www.semanticscholar.org/paper/Improving-Language-Understanding-by-Generative-Radford-Narasimhan/cd18800a0fe0b668a1cc19f2ec95b5003d0a5035)) |
+| ✅ | 2018 | [GPT](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf) | 使用 Transformer 解码器来做预训练         | 2752 ([link](https://www.semanticscholar.org/paper/Improving-Language-Understanding-by-Generative-Radford-Narasimhan/cd18800a0fe0b668a1cc19f2ec95b5003d0a5035)) |
 | ✅ | 2018 | [BERT](https://arxiv.org/abs/1810.04805) | Transformer一统NLP的开始            | 25340 ([link](https://www.semanticscholar.org/paper/BERT%3A-Pre-training-of-Deep-Bidirectional-for-Devlin-Chang/df2b0e26d0599ce3e70df8a9da02e51594e0e992)) |
-|  | 2019 | [GPT-2](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)  |         | 4534 ([link](https://www.semanticscholar.org/paper/Language-Models-are-Unsupervised-Multitask-Learners-Radford-Wu/9405cc0d6169988371b2755e573cc28650d14dfe)) |
-|  | 2020 |  [GPT-3](https://arxiv.org/abs/2005.14165) | 朝着zero-shot learning迈了一大步            | 2548 ([link](https://www.semanticscholar.org/paper/Language-Models-are-Few-Shot-Learners-Brown-Mann/6b85b63579a916f705a8e10a49bd8d849d91b1fc)) |
+| ✅ | 2019 | [GPT-2](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)  |  更大的 GPT 模型，朝着zero-shot learning迈了一大步       | 4534 ([link](https://www.semanticscholar.org/paper/Language-Models-are-Unsupervised-Multitask-Learners-Radford-Wu/9405cc0d6169988371b2755e573cc28650d14dfe)) |
+| ✅ | 2020 |  [GPT-3](https://arxiv.org/abs/2005.14165) | 100倍更大的 GPT-2，few-shot learning效果显著            | 2548 ([link](https://www.semanticscholar.org/paper/Language-Models-are-Few-Shot-Learners-Brown-Mann/6b85b63579a916f705a8e10a49bd8d849d91b1fc)) |
 
 ### 图神经网络
 
