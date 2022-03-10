@@ -5,7 +5,9 @@
 
 | 日期 | 标题 | 封面 | 时长 | 视频 |
 | -- | -- | -- | --: | -- |
-| 3/4/22 | [GPT](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf), [GPT-2](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf), [GPT-3](https://arxiv.org/abs/2005.14165) 精读 | <img src="imgs/gpt3.jpg" width="200px"/> | 1:29:58 | [B站](https://www.bilibili.com/video/BV1AF411b7xQ/), [YouTube](https://youtu.be/t70Bl3w7bxY) |
+| 3/17/22 | [AlphaCode]() 论文精读 | <img src="imgs/alphacode.jpg" width="200px"/> | 44:00 |  |
+| 3/10/22 | [OpenAI Codex](https://arxiv.org/pdf/2107.03374.pdf) 论文精读 | <img src="imgs/codex.jpg" width="200px"/> | 47:58 |  |
+| 3/3/22 | [GPT](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf), [GPT-2](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf), [GPT-3](https://arxiv.org/abs/2005.14165) 精读 | <img src="imgs/gpt3.jpg" width="200px"/> | 1:29:58 | [B站](https://www.bilibili.com/video/BV1AF411b7xQ/), [YouTube](https://youtu.be/t70Bl3w7bxY) |
 | 2/24/22 | [Two-Stream](https://proceedings.neurips.cc/paper/2014/file/00ec53c4682d36f5c4359f4ae7bd7ba1-Paper.pdf) 逐段精读 |  <img src="imgs/twostream.jpg" width="200px"/> | 52:57 | [B站](https://www.bilibili.com/video/BV1mq4y1x7RU/), [YouTube](https://youtu.be/vuqwKP2iDe0) |
 | 2/10/22 | [CLIP](https://openai.com/blog/clip/) 逐段精读 | <img src="imgs/clip.jpg" width="200px"/> | 1:38:25 | [B站](https://www.bilibili.com/video/BV1SL4y1s7LQ/), [知乎](https://www.zhihu.com/zvideo/1475706654562299904), [YouTube](https://youtu.be/OZF1t_Hieq8) |
 | 2/6/22 | 你（被）吐槽过[论文不够 novel](https://perceiving-systems.blog/en/post/novelty-in-science) 吗？| <img src="imgs/novelty.jpg" width="200px"/> | 14:11 | [B站](https://www.bilibili.com/video/BV1ea41127Bq/), [知乎](https://www.zhihu.com/zvideo/1475719090198876161) |
@@ -144,7 +146,7 @@
 | | 2016 | [AlphaGo](https://storage.googleapis.com/deepmind-media/alphago/AlphaGoNaturePaper.pdf) | 强化学习出圈           | 10257 ([link](https://www.semanticscholar.org/paper/Mastering-the-game-of-Go-with-deep-neural-networks-Silver-Huang/846aedd869a00c09b40f1f1f35673cb22bc87490)) |
 | | 2020 | [AlphaFold](https://discovery.ucl.ac.uk/id/eprint/10089234/1/343019_3_art_0_py4t4l_convrt.pdf) | 赢得比赛的的蛋白质3D结构预测 | 1074（[link](https://www.semanticscholar.org/paper/Improved-protein-structure-prediction-using-from-Senior-Evans/3a083d843f891b3574494c385699c21766ce8b7a)) |
 | ✅ | 2021 | [AlphaFold 2](https://www.nature.com/articles/s41586-021-03819-2.pdf) | 原子级别精度的蛋白质3D结构预测 | 921 ([link](https://www.semanticscholar.org/paper/Highly-accurate-protein-structure-prediction-with-Jumper-Evans/dc32a984b651256a8ec282be52310e6bd33d9815))|
-| | 2021 | [Codex](https://arxiv.org/pdf/2107.03374.pdf) | 使用注释生成代码 | 92 ([link](https://www.semanticscholar.org/paper/Evaluating-Large-Language-Models-Trained-on-Code-Chen-Tworek/acbdbf49f9bc3f151b93d9ca9a06009f4f6eb269))|
+| ✅ | 2021 | [Codex](https://arxiv.org/pdf/2107.03374.pdf) | 使用注释生成代码 | 92 ([link](https://www.semanticscholar.org/paper/Evaluating-Large-Language-Models-Trained-on-Code-Chen-Tworek/acbdbf49f9bc3f151b93d9ca9a06009f4f6eb269))|
 | ✅ | 2021 | [指导数学直觉](https://www.nature.com/articles/s41586-021-04086-x.pdf) | 分析不同数学物体之前的联系来帮助发现新定理   | 4 ([link](https://www.semanticscholar.org/paper/Advancing-mathematics-by-guiding-human-intuition-AI-Davies-Velickovic/f672b8fb430606fee0bb368f16603531ce1e90c4)) |
-| | 2022 | [AlphaCode](https://storage.googleapis.com/deepmind-media/AlphaCode/competition_level_code_generation_with_alphacode.pdf) | 媲美一般程序员的编程解题水平 | 2 ([link](https://www.semanticscholar.org/paper/Competition-Level-Code-Generation-with-AlphaCode-Li-Choi/5cbe278b65a81602a864184bbca37de91448a5f5)) | 
+| ✅ | 2022 | [AlphaCode](https://storage.googleapis.com/deepmind-media/AlphaCode/competition_level_code_generation_with_alphacode.pdf) | 媲美一般程序员的编程解题水平 | 2 ([link](https://www.semanticscholar.org/paper/Competition-Level-Code-Generation-with-AlphaCode-Li-Choi/5cbe278b65a81602a864184bbca37de91448a5f5)) | 
 
