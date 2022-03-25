@@ -5,7 +5,8 @@
 
 | 日期 | 标题 | 封面 | 时长 | 视频 |
 | -- | -- | -- | --: | -- |
-| 3/17/22 | [AlphaCode]() 论文精读 | <img src="imgs/alphacode.jpg" width="200px"/> | 44:00 |  |
+| 3/24/22 | 斯坦福 2022 年 [AI 指数报告](https://aiindex.stanford.edu/wp-content/uploads/2022/03/2022-AI-Index-Report_Master.pdf) 精读 | <img src="imgs/ai_index_22.jpg" width="200px"/> | 1:19:56 | [B站](https://www.bilibili.com/video/BV1s44y1N7eu/), [YouTube](https://youtu.be/K8h_xjQ6ufY) |
+| 3/17/22 | [AlphaCode](https://storage.googleapis.com/deepmind-media/AlphaCode/competition_level_code_generation_with_alphacode.pdf) 论文精读 | <img src="imgs/alphacode.jpg" width="200px"/> | 44:00 | [B站](https://www.bilibili.com/video/BV1ab4y1s7rc/), [YouTube](https://youtu.be/t8Gzkca9pW4) |
 | 3/10/22 | [OpenAI Codex](https://arxiv.org/pdf/2107.03374.pdf) 论文精读 | <img src="imgs/codex.jpg" width="200px"/> | 47:58 | [B站](https://www.bilibili.com/video/BV1iY41137Zi/), [YouTube](https://youtu.be/oZriUGkQSNM) |
 | 3/3/22 | [GPT](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf), [GPT-2](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf), [GPT-3](https://arxiv.org/abs/2005.14165) 精读 | <img src="imgs/gpt3.jpg" width="200px"/> | 1:29:58 | [B站](https://www.bilibili.com/video/BV1AF411b7xQ/), [YouTube](https://youtu.be/t70Bl3w7bxY) |
 | 2/24/22 | [Two-Stream](https://proceedings.neurips.cc/paper/2014/file/00ec53c4682d36f5c4359f4ae7bd7ba1-Paper.pdf) 逐段精读 |  <img src="imgs/twostream.jpg" width="200px"/> | 52:57 | [B站](https://www.bilibili.com/video/BV1mq4y1x7RU/), [YouTube](https://youtu.be/vuqwKP2iDe0) |
