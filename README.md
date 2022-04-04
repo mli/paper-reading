@@ -5,6 +5,7 @@
 
 | 日期 | 标题 | 封面 | 时长 | 视频 |
 | -- | -- | -- | --: | -- |
+| 3/31/22 | [I3D](https://arxiv.org/pdf/1705.07750.pdf) 论文精读 | <img src="imgs/i3d.jpg" width="200px"/> | 52:31 | [B站](https://www.bilibili.com/video/BV1tY4y1p7hq/) |
 | 3/24/22 | 斯坦福 2022 年 [AI 指数报告](https://aiindex.stanford.edu/wp-content/uploads/2022/03/2022-AI-Index-Report_Master.pdf) 精读 | <img src="imgs/ai_index_22.jpg" width="200px"/> | 1:19:56 | [B站](https://www.bilibili.com/video/BV1s44y1N7eu/), [YouTube](https://youtu.be/K8h_xjQ6ufY) |
 | 3/17/22 | [AlphaCode](https://storage.googleapis.com/deepmind-media/AlphaCode/competition_level_code_generation_with_alphacode.pdf) 论文精读 | <img src="imgs/alphacode.jpg" width="200px"/> | 44:00 | [B站](https://www.bilibili.com/video/BV1ab4y1s7rc/), [YouTube](https://youtu.be/t8Gzkca9pW4) |
 | 3/10/22 | [OpenAI Codex](https://arxiv.org/pdf/2107.03374.pdf) 论文精读 | <img src="imgs/codex.jpg" width="200px"/> | 47:58 | [B站](https://www.bilibili.com/video/BV1iY41137Zi/), [YouTube](https://youtu.be/oZriUGkQSNM) |
