@@ -4,7 +4,9 @@
 
 
 | 日期 | 标题 | 封面 | 时长 | 视频 |
-| -- | -- | -- | --: | -- |
+| --: | -- | -- | --: | -- |
+| 5/5/22 | [Pathways](https://arxiv.org/pdf/2203.12533.pdf) 逐段精读 | <img src="imgs/pathways.jpg" width="200px"/> | 1:02:13 |  |
+| 4/28/22 | [视频理解论文串讲](https://arxiv.org/pdf/2012.06567.pdf)（下） | <img src="imgs/video-survey-p2.jpg" width="200px"/> | 1:08:32 |  |
 | 4/21/22 | [参数服务器（Parameter Server）](https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-li_mu.pdf) 逐段精读 | <img src="imgs/ps.jpg" width="200px"/> | 1:37:40 | [B站](https://www.bilibili.com/video/BV1YA4y197G8/)  |
 | 4/14/22 | [视频理解论文串讲](https://arxiv.org/pdf/2012.06567.pdf)（上） | <img src="imgs/video-survey-p1.jpg" width="200px"/> | 51:15 | [B站](https://www.bilibili.com/video/BV1fL4y157yA/) |
 | 3/31/22 | [I3D](https://arxiv.org/pdf/1705.07750.pdf) 论文精读 | <img src="imgs/i3d.jpg" width="200px"/> | 52:31 | [B站](https://www.bilibili.com/video/BV1tY4y1p7hq/), [YouTube](https://youtu.be/9lIkKiAn6uE) |
