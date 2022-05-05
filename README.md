@@ -6,9 +6,9 @@
 | 日期 | 标题 | 封面 | 时长 | 视频 |
 | --: | -- | -- | --: | -- |
 | 5/5/22 | [Pathways](https://arxiv.org/pdf/2203.12533.pdf) 逐段精读 | <img src="imgs/pathways.jpg" width="200px"/> | 1:02:13 |  |
-| 4/28/22 | [视频理解论文串讲](https://arxiv.org/pdf/2012.06567.pdf)（下） | <img src="imgs/video-survey-p2.jpg" width="200px"/> | 1:08:32 |  |
+| 4/28/22 | [视频理解论文串讲](https://arxiv.org/pdf/2012.06567.pdf)（下） | <img src="imgs/video-survey-p2.jpg" width="200px"/> | 1:08:32 | [B站](https://www.bilibili.com/video/BV11Y411P7ep/), [YouTube](https://youtu.be/J2YC0-k57NM) |
 | 4/21/22 | [参数服务器（Parameter Server）](https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-li_mu.pdf) 逐段精读 | <img src="imgs/ps.jpg" width="200px"/> | 1:37:40 | [B站](https://www.bilibili.com/video/BV1YA4y197G8/)  |
-| 4/14/22 | [视频理解论文串讲](https://arxiv.org/pdf/2012.06567.pdf)（上） | <img src="imgs/video-survey-p1.jpg" width="200px"/> | 51:15 | [B站](https://www.bilibili.com/video/BV1fL4y157yA/) |
+| 4/14/22 | [视频理解论文串讲](https://arxiv.org/pdf/2012.06567.pdf)（上） | <img src="imgs/video-survey-p1.jpg" width="200px"/> | 51:15 | [B站](https://www.bilibili.com/video/BV1fL4y157yA/), [YouTube](https://youtu.be/gK7AGO6okhc) |
 | 3/31/22 | [I3D](https://arxiv.org/pdf/1705.07750.pdf) 论文精读 | <img src="imgs/i3d.jpg" width="200px"/> | 52:31 | [B站](https://www.bilibili.com/video/BV1tY4y1p7hq/), [YouTube](https://youtu.be/9lIkKiAn6uE) |
 | 3/24/22 | 斯坦福 2022 年 [AI 指数报告](https://aiindex.stanford.edu/wp-content/uploads/2022/03/2022-AI-Index-Report_Master.pdf) 精读 | <img src="imgs/ai_index_22.jpg" width="200px"/> | 1:19:56 | [B站](https://www.bilibili.com/video/BV1s44y1N7eu/), [YouTube](https://youtu.be/K8h_xjQ6ufY) |
 | 3/17/22 | [AlphaCode](https://storage.googleapis.com/deepmind-media/AlphaCode/competition_level_code_generation_with_alphacode.pdf) 论文精读 | <img src="imgs/alphacode.jpg" width="200px"/> | 44:00 | [B站](https://www.bilibili.com/video/BV1ab4y1s7rc/), [YouTube](https://youtu.be/t8Gzkca9pW4) |
@@ -128,6 +128,13 @@
 | ✅ | 2018 | [BERT](https://arxiv.org/abs/1810.04805) | Transformer一统NLP的开始            | 25340 ([link](https://www.semanticscholar.org/paper/BERT%3A-Pre-training-of-Deep-Bidirectional-for-Devlin-Chang/df2b0e26d0599ce3e70df8a9da02e51594e0e992)) |
 | ✅ | 2019 | [GPT-2](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)  |  更大的 GPT 模型，朝着zero-shot learning迈了一大步       | 4534 ([link](https://www.semanticscholar.org/paper/Language-Models-are-Unsupervised-Multitask-Learners-Radford-Wu/9405cc0d6169988371b2755e573cc28650d14dfe)) |
 | ✅ | 2020 |  [GPT-3](https://arxiv.org/abs/2005.14165) | 100倍更大的 GPT-2，few-shot learning效果显著            | 2548 ([link](https://www.semanticscholar.org/paper/Language-Models-are-Few-Shot-Learners-Brown-Mann/6b85b63579a916f705a8e10a49bd8d849d91b1fc)) |
+
+### 系统
+
+| 已录制 | 年份 | 名字                                                         | 简介                 | 引用                                                         |
+| ------ | ---- | ------------------------------------------------------------ | -------------------- | -----------------------------------------------------------: |
+|  ✅ |  2014 | [参数服务器](https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-li_mu.pdf) | 支持千亿参数的传统机器学习模型 | 1360 ([link](https://www.semanticscholar.org/paper/Scaling-Distributed-Machine-Learning-with-the-Li-Andersen/0de0c3240bda7972bd0a3c8369ebc4b4f2e4f9c)) |
+| ✅ |  2022 | [Pathways](https://arxiv.org/pdf/2203.12533.pdf) |  将Jax拓展到上千TPU核上 |  2 ([link](https://www.semanticscholar.org/paper/Pathways%3A-Asynchronous-Distributed-Dataflow-for-ML-Barham-Chowdhery/512e9aa873a1cd7eb61ce1f25ca7df6acb7e2352)) |
 
 ### 图神经网络
 
