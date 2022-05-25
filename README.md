@@ -6,6 +6,7 @@
 
 | 日期 | 标题 | 封面 | 时长 | 视频 | 播放数 |
 | --: | -- | -- | --: | -- | --: |
+| 6/10/22 | [DETR](https://arxiv.org/pdf/2005.12872.pdf) 逐段精读 | <img src="imgs/detr.jpg" width="200px"/> | 54:22 |  | 0 万 |
 | 6/3/22 | [Megatron LM](https://arxiv.org/pdf/1909.08053.pdf) 逐段精读 | <img src="imgs/megatron_lm.jpg" width="200px"/> | 56:07 |  | 0 万 |
 | 5/27/22 | [GPipe](https://proceedings.neurips.cc/paper/2019/file/093f65e080a295f8076b1c5722a46aa2-Paper.pdf) 逐段精读 | <img src="imgs/gpipe.jpg" width="200px"/> | 58:47 |  | 0 万 |
 | 5/5/22 | [Pathways](https://arxiv.org/pdf/2203.12533.pdf) 逐段精读 | <img src="imgs/pathways.jpg" width="200px"/> | 1:02:13 | [B站](https://www.bilibili.com/video/BV1xB4y1m7Xi/) | 3.7 万 |
