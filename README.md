@@ -6,8 +6,8 @@
 
 | 日期 | 标题 | 封面 | 时长 | 视频 | 播放数 |
 | --: | -- | -- | --: | -- | --: |
-| 7/1/22 | 明白问题的重要性【研究的艺术·二】| <img src="imgs/craft_research_p2.jpg" width="200px"/> | | | 
-| 6/24/22 | 跟读者建立联系【研究的艺术·一】 | <img src="imgs/craft_research_p1.jpg" width="200px"/> | 45:01 |  | 0 万 | 
+| 7/1/22 | 明白问题的重要性【[研究的艺术](https://press.uchicago.edu/ucp/books/book/chicago/C/bo23521678.html)·二】| <img src="imgs/craft_research_p2.jpg" width="200px"/> | | | 
+| 6/24/22 | 跟读者建立联系【[研究的艺术](https://press.uchicago.edu/ucp/books/book/chicago/C/bo23521678.html)·一】 | <img src="imgs/craft_research_p1.jpg" width="200px"/> | 45:01 |  | 0 万 | 
 | 6/17/22 | [Zero](https://arxiv.org/pdf/1910.02054.pdf) 逐段精读 | <img src="imgs/zero.jpg" width="200px"/> | 52:21 | [B站](https://www.bilibili.com/video/BV1tY411g7ZT/) | 1.5 万 |
 | 6/10/22 | [DETR](https://arxiv.org/pdf/2005.12872.pdf) 逐段精读 | <img src="imgs/detr.jpg" width="200px"/> | 54:22 | [B站](https://www.bilibili.com/video/BV1GB4y1X72R/) | 2.7 万 |
 | 6/3/22 | [Megatron LM](https://arxiv.org/pdf/1909.08053.pdf) 逐段精读 | <img src="imgs/megatron_lm.jpg" width="200px"/> | 56:07 | [B站](https://www.bilibili.com/video/BV1nB4y1R7Yz/) | 2.0 万 |
