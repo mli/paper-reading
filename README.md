@@ -5,7 +5,7 @@
 总共 35 视频，总时长 31.0 小时, 总播放 307 万
 
 | 日期 | 标题 | 封面 | 时长 | 视频（播放数） |
-| --: | -- | -- | --: | --: |
+| --: | -- | -- | --: | -- |
 | 7/8/22 | 如何讲好故事、故事里的论点【[研究的艺术](https://press.uchicago.edu/ucp/books/book/chicago/C/bo23521678.html)·三】| <img src="imgs/craft_research_p3.jpg" width="200px"/> | 43:56 ||
 | 7/1/22 | 明白问题的重要性【[研究的艺术](https://press.uchicago.edu/ucp/books/book/chicago/C/bo23521678.html)·二】| <img src="imgs/craft_research_p2.jpg" width="200px"/> | 1:03:40 ||
 | 6/24/22 | 跟读者建立联系【[研究的艺术](https://press.uchicago.edu/ucp/books/book/chicago/C/bo23521678.html)·一】 | <img src="imgs/craft_research_p1.jpg" width="200px"/> | 45:01 | [![bilibili](https://img.shields.io/badge/dynamic/json?color=ff69b4&label=bilibili&query=data.stat.view&url=https%3A%2F%2Fapi.bilibili.com%2Fx%2Fweb-interface%2Fview%3Fbvid%3DBV1hY411T7vy)](https://www.bilibili.com/video/BV1hY411T7vy/) |
