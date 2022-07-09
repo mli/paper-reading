@@ -4,7 +4,8 @@
 
 | 日期 | 标题 | 封面 | 时长 | 视频（播放数） |
 | --: | -- | -- | --: | -- |
-| 7/8/22 | 如何讲好故事、故事里的论点【[研究的艺术](https://press.uchicago.edu/ucp/books/book/chicago/C/bo23521678.html)·三】| <img src="imgs/craft_research_p3.jpg" width="200px"/> | 43:56 ||
+| 7/15/22 | 如何讲好故事、故事里的论点【[研究的艺术](https://press.uchicago.edu/ucp/books/book/chicago/C/bo23521678.html)·三】| <img src="imgs/craft_research_p3.jpg" width="200px"/> | 43:56 ||
+| 7/8/22 | [DALL·E 2](https://arxiv.org/pdf/2204.06125.pdf) 逐段精读 | <img src="imgs/dalle2.jpg" width="200px"/> | 1:27:54 |[![bilibili](https://img.shields.io/badge/dynamic/json?label=views&style=social&logo=bilibili&query=data.stat.view&url=https%3A%2F%2Fapi.bilibili.com%2Fx%2Fweb-interface%2Fview%3Fbvid%3DBV17r4y1u77B)](https://www.bilibili.com/video/BV17r4y1u77B)|
 | 7/1/22 | 明白问题的重要性【[研究的艺术](https://press.uchicago.edu/ucp/books/book/chicago/C/bo23521678.html)·二】| <img src="imgs/craft_research_p2.jpg" width="200px"/> | 1:03:40 |[![bilibili](https://img.shields.io/badge/dynamic/json?label=views&style=social&logo=bilibili&query=data.stat.view&url=https%3A%2F%2Fapi.bilibili.com%2Fx%2Fweb-interface%2Fview%3Fbvid%3DBV11S4y1v7S2)](https://www.bilibili.com/video/BV11S4y1v7S2/)|
 | 6/24/22 | 跟读者建立联系【[研究的艺术](https://press.uchicago.edu/ucp/books/book/chicago/C/bo23521678.html)·一】 | <img src="imgs/craft_research_p1.jpg" width="200px"/> | 45:01 | [![bilibili](https://img.shields.io/badge/dynamic/json?label=views&style=social&logo=bilibili&query=data.stat.view&url=https%3A%2F%2Fapi.bilibili.com%2Fx%2Fweb-interface%2Fview%3Fbvid%3DBV1hY411T7vy)](https://www.bilibili.com/video/BV1hY411T7vy/) |
 | 6/17/22 | [Zero](https://arxiv.org/pdf/1910.02054.pdf) 逐段精读 | <img src="imgs/zero.jpg" width="200px"/> | 52:21 | [![bilibili](https://img.shields.io/badge/dynamic/json?label=views&style=social&logo=bilibili&query=data.stat.view&url=https%3A%2F%2Fapi.bilibili.com%2Fx%2Fweb-interface%2Fview%3Fbvid%3DBV1tY411g7ZT)](https://www.bilibili.com/video/BV1tY411g7ZT/) |
