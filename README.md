@@ -4,6 +4,8 @@
 
 | 日期 | 标题 | 封面 | 时长 | 视频（播放数） |
 | --: | -- | -- | --: | -- |
+| 9/17/22 | CLIP 改进工作串讲（下） | <img src="imgs/clipx-part2.jpg" width="200px"/> | 1:04:26 |  |
+| 9/2/22 | CLIP 改进工作串讲（上） | <img src="imgs/clipx-part1.jpg" width="200px"/> | 1:14:43 | [![bilibili](https://img.shields.io/badge/dynamic/json?label=views&style=social&logo=bilibili&query=data.stat.view&url=https%3A%2F%2Fapi.bilibili.com%2Fx%2Fweb-interface%2Fview%3Fbvid%3DBV1FV4y1p7Lm)](https://www.bilibili.com/video/BV1FV4y1p7Lm) |
 | 7/29/22 | [ViLT](https://arxiv.org/pdf/2102.03334.pdf) 论文精读 | <img src="imgs/vilt.jpg" width="200px"/> | 1:03:26 | [![bilibili](https://img.shields.io/badge/dynamic/json?label=views&style=social&logo=bilibili&query=data.stat.view&url=https%3A%2F%2Fapi.bilibili.com%2Fx%2Fweb-interface%2Fview%3Fbvid%3DBV14r4y1j74y)](https://www.bilibili.com/video/BV14r4y1j74y) |
 | 7/22/22 | 理由、论据和担保【[研究的艺术](https://press.uchicago.edu/ucp/books/book/chicago/C/bo23521678.html)·四】 | <img src="imgs/craft_research_p4.jpg" width="200px"/> | 44:14 | [![bilibili](https://img.shields.io/badge/dynamic/json?label=views&style=social&logo=bilibili&query=data.stat.view&url=https%3A%2F%2Fapi.bilibili.com%2Fx%2Fweb-interface%2Fview%3Fbvid%3DBV1SB4y1a75c)](https://www.bilibili.com/video/BV1SB4y1a75c) |
 | 7/15/22 | 如何讲好故事、故事里的论点【[研究的艺术](https://press.uchicago.edu/ucp/books/book/chicago/C/bo23521678.html)·三】| <img src="imgs/craft_research_p3.jpg" width="200px"/> | 43:56 |[![bilibili](https://img.shields.io/badge/dynamic/json?label=views&style=social&logo=bilibili&query=data.stat.view&url=https%3A%2F%2Fapi.bilibili.com%2Fx%2Fweb-interface%2Fview%3Fbvid%3DBV1WB4y1v7ST)](https://www.bilibili.com/video/BV1WB4y1v7ST)|
