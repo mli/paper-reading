@@ -4,6 +4,7 @@
 
 | 日期 | 标题 | 封面 | 时长 | 视频（播放数） |
 | --: | -- | -- | --: | -- |
+| 10/23/22 | Chain of Thought论文、代码和资源 |  | 0:33:21 |  |
 | 9/17/22 | CLIP 改进工作串讲（下） | <img src="imgs/clipx-part2.jpg" width="200px"/> | 1:04:26 |  |
 | 9/2/22 | CLIP 改进工作串讲（上） | <img src="imgs/clipx-part1.jpg" width="200px"/> | 1:14:43 | [![bilibili](https://img.shields.io/badge/dynamic/json?label=views&style=social&logo=bilibili&query=data.stat.view&url=https%3A%2F%2Fapi.bilibili.com%2Fx%2Fweb-interface%2Fview%3Fbvid%3DBV1FV4y1p7Lm)](https://www.bilibili.com/video/BV1FV4y1p7Lm) |
 | 7/29/22 | [ViLT](https://arxiv.org/pdf/2102.03334.pdf) 论文精读 | <img src="imgs/vilt.jpg" width="200px"/> | 1:03:26 | [![bilibili](https://img.shields.io/badge/dynamic/json?label=views&style=social&logo=bilibili&query=data.stat.view&url=https%3A%2F%2Fapi.bilibili.com%2Fx%2Fweb-interface%2Fview%3Fbvid%3DBV14r4y1j74y)](https://www.bilibili.com/video/BV14r4y1j74y) |
