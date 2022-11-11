@@ -1,6 +1,3 @@
-*.png
+imgs/*.png
 .DS_Store
 convert.sh
-diagram.md
-imgs/papers.jpg
-imgs/legend.jpg
